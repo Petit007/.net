@@ -1,0 +1,12 @@
+/Users/ishau/Desktop/c#/firstProject/bin/Debug/netcoreapp3.1/firstProject.deps.json
+/Users/ishau/Desktop/c#/firstProject/bin/Debug/netcoreapp3.1/firstProject.runtimeconfig.json
+/Users/ishau/Desktop/c#/firstProject/bin/Debug/netcoreapp3.1/firstProject.runtimeconfig.dev.json
+/Users/ishau/Desktop/c#/firstProject/bin/Debug/netcoreapp3.1/firstProject.dll
+/Users/ishau/Desktop/c#/firstProject/bin/Debug/netcoreapp3.1/firstProject.pdb
+/Users/ishau/Desktop/c#/firstProject/obj/Debug/netcoreapp3.1/firstProject.csprojAssemblyReference.cache
+/Users/ishau/Desktop/c#/firstProject/obj/Debug/netcoreapp3.1/firstProject.csproj.CoreCompileInputs.cache
+/Users/ishau/Desktop/c#/firstProject/obj/Debug/netcoreapp3.1/firstProject.AssemblyInfoInputs.cache
+/Users/ishau/Desktop/c#/firstProject/obj/Debug/netcoreapp3.1/firstProject.AssemblyInfo.cs
+/Users/ishau/Desktop/c#/firstProject/obj/Debug/netcoreapp3.1/firstProject.dll
+/Users/ishau/Desktop/c#/firstProject/obj/Debug/netcoreapp3.1/firstProject.pdb
+/Users/ishau/Desktop/c#/firstProject/obj/Debug/netcoreapp3.1/firstProject.genruntimeconfig.cache

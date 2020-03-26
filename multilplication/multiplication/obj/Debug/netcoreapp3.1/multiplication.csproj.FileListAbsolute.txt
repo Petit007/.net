@@ -1,0 +1,12 @@
+/Users/ishau/Desktop/c#/multilplication/multiplication/bin/Debug/netcoreapp3.1/multiplication.deps.json
+/Users/ishau/Desktop/c#/multilplication/multiplication/bin/Debug/netcoreapp3.1/multiplication.runtimeconfig.json
+/Users/ishau/Desktop/c#/multilplication/multiplication/bin/Debug/netcoreapp3.1/multiplication.runtimeconfig.dev.json
+/Users/ishau/Desktop/c#/multilplication/multiplication/bin/Debug/netcoreapp3.1/multiplication.dll
+/Users/ishau/Desktop/c#/multilplication/multiplication/bin/Debug/netcoreapp3.1/multiplication.pdb
+/Users/ishau/Desktop/c#/multilplication/multiplication/obj/Debug/netcoreapp3.1/multiplication.csprojAssemblyReference.cache
+/Users/ishau/Desktop/c#/multilplication/multiplication/obj/Debug/netcoreapp3.1/multiplication.csproj.CoreCompileInputs.cache
+/Users/ishau/Desktop/c#/multilplication/multiplication/obj/Debug/netcoreapp3.1/multiplication.AssemblyInfoInputs.cache
+/Users/ishau/Desktop/c#/multilplication/multiplication/obj/Debug/netcoreapp3.1/multiplication.AssemblyInfo.cs
+/Users/ishau/Desktop/c#/multilplication/multiplication/obj/Debug/netcoreapp3.1/multiplication.dll
+/Users/ishau/Desktop/c#/multilplication/multiplication/obj/Debug/netcoreapp3.1/multiplication.pdb
+/Users/ishau/Desktop/c#/multilplication/multiplication/obj/Debug/netcoreapp3.1/multiplication.genruntimeconfig.cache

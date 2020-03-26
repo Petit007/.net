@@ -1,0 +1,12 @@
+/Users/ishau/Desktop/c#/division/division/obj/Debug/netcoreapp3.1/division.csprojAssemblyReference.cache
+/Users/ishau/Desktop/c#/division/division/obj/Debug/netcoreapp3.1/division.csproj.CoreCompileInputs.cache
+/Users/ishau/Desktop/c#/division/division/obj/Debug/netcoreapp3.1/division.AssemblyInfoInputs.cache
+/Users/ishau/Desktop/c#/division/division/obj/Debug/netcoreapp3.1/division.AssemblyInfo.cs
+/Users/ishau/Desktop/c#/division/division/bin/Debug/netcoreapp3.1/division.deps.json
+/Users/ishau/Desktop/c#/division/division/bin/Debug/netcoreapp3.1/division.runtimeconfig.json
+/Users/ishau/Desktop/c#/division/division/bin/Debug/netcoreapp3.1/division.runtimeconfig.dev.json
+/Users/ishau/Desktop/c#/division/division/bin/Debug/netcoreapp3.1/division.dll
+/Users/ishau/Desktop/c#/division/division/bin/Debug/netcoreapp3.1/division.pdb
+/Users/ishau/Desktop/c#/division/division/obj/Debug/netcoreapp3.1/division.dll
+/Users/ishau/Desktop/c#/division/division/obj/Debug/netcoreapp3.1/division.pdb
+/Users/ishau/Desktop/c#/division/division/obj/Debug/netcoreapp3.1/division.genruntimeconfig.cache
